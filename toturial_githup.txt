@@ -18,7 +18,7 @@ git push
 
 git remote http ...
 
-git remote master ..
+git push -u origin master
 
 -------- 
  git remote -v
