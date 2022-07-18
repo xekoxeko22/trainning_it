@@ -1,0 +1,29 @@
+--------- dua code len git
+
+->tao repo tren web
+
+-> ve thu muc local
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m"add test3"
+
+git push
+
+git remote http ...
+
+git remote master ..
+
+-------- 
+ git remote -v
+ 
+ -----------
+ git pull  : update cho local
+ 
+ 
