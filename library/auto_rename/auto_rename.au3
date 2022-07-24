@@ -13,8 +13,7 @@ FileChangeDir(@ScriptDir&"\image_old")
 				ExitLoop
 			EndIf
 			if FileExists($fileName) Then
-				FileMove(@ScriptDir&"\image_old\"&$fileName,@ScriptDir&"\image_new\"&$i&".txt",8)
+				FileMove(@ScriptDir&"\image_old\"&$fileName,@ScriptDir&"\image_new\"&$i&".jpg",8)
 				$i+=1
 			EndIf
 	WEnd
-	$i=""
