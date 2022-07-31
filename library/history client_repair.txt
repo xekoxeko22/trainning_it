@@ -1,0 +1,4 @@
+﻿change location 18 vs 19 find cause nhiễm điện
+
+
+56: thay cap kvm,hdmi ->dvi-hdmi
