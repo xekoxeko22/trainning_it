@@ -1,4 +1,5 @@
-﻿change location 18 vs 19 find cause nhiễm điện
+﻿3.8.2002:	18-19: change location 18 vs 19 find cause nhiễm điện
 
+3.8.2002: 	35: temp cpu 95*c
 
-56: thay cap kvm,hdmi ->dvi-hdmi
+3.8.2002:	56: thay cap kvm,hdmi ->dvi-hdmi -> sua loi chuot lag
