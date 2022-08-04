@@ -1,5 +1,7 @@
-﻿3.8.2002:	18-19: change location 18 vs 19 find cause nhiễm điện
+﻿10.7.2020	18-19: change location 18 vs 19 find cause nhiễm điện
 
-3.8.2002: 	35: temp cpu 95*c
+3.8.2020	35: temp cpu 95*c
 
-3.8.2002:	56: thay cap kvm,hdmi ->dvi-hdmi -> sua loi chuot lag
+3.8.2020	56: thay cap kvm,hdmi ->dvi-hdmi -> tìm nguyên nhân lag chuột
+
+4.8.2020	60: thay kvm quang, tìm hiểu nguyên nhân nhảy default volume 
