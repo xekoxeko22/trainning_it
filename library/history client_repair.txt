@@ -1,7 +1,12 @@
-﻿10.7.2020	18-19: change location 18 vs 19 find cause nhiễm điện
+﻿5.8.2022	16:	thay nhôm kvm chữa volum rè(kvm nguyên nhân gây lỗi)
 
-3.8.2020	35: temp cpu 95*c
+10.7.2022	18-19:	change location 18 vs 19 find cause nhiễm điện
 
-3.8.2020	56: thay cap kvm,hdmi ->dvi-hdmi -> tìm nguyên nhân lag chuột
+3.8.2022	35:	temp cpu 95*c
 
-4.8.2020	60: thay kvm quang, tìm hiểu nguyên nhân nhảy default volume 
+
+
+3.8.2022	46: 	thay cap kvm,hdmi ->dvi-hdmi -> tìm nguyên nhân lag chuột
+8.8.2022		thay chuột,đảo với máy 34: tìm nguyên nhân lag chuột
+
+4.8.2022	60:	thay nhôm kvm, tìm hiểu nguyên nhân nhảy default volume 
