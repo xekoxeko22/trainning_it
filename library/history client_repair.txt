@@ -1,21 +1,25 @@
-﻿5.8.2022	16:	thay nhôm kvm chữa volum rè(kvm nguyên nhân gây lỗi)
+5.8.2022	16:	thay nh�m kvm fix volume r�
 
-10.7.2022	18:	change location 19 find cause nhiễm điện
+10.7.2022	18:	change location 19 fix nhi?m ?i?n
 
-10.7.2022	19:	change location 18  find cause nhiễm điện
+10.7.2022	19:	change location 18  fix nhi?m ?i?n
 
-10.8.2022	21:	change location vs 37 -> tìm lỗi nhiễm điện
+10.8.2022	21:	change location vs 37 fix nhi?m ?i?n
 
-8.8.2022	34:	thay chuột,đảo với máy 46: tìm nguyên nhân lag chuột
+8.8.2022	34:	thay chu?t,??o v?i m�y 46: fix lag chu?t
 
 3.8.2022	35:	temp cpu 95*c
 
-10.8.2022	37:	change location vs 19 -> tìm lỗi nhiễm điện
+10.8.2022	37:	change location vs 19 fix nhi?m ?i?n
 
-3.8.2022	46: 	thay cap kvm,hdmi ->dvi-hdmi -> tìm nguyên nhân lag chuột
-8.8.2022		thay chuột,đảo với máy 34 	tìm nguyên nhân lag chuột
+19.8.2022	41:	th?i b?i fix m�n h�nh xanh
 
-4.8.2022	60:	thay nhôm kvm, tìm hiểu nguyên nhân nhảy default volume 
+3.8.2022	46: 	thay cap kvm,hdmi ->dvi-hdmi fix lag chu?t
+8.8.2022	46	thay chu?t,??o v?i m�y 34 	fix lag chu?t
+
+4.8.2022	60:	thay nh�m kvm, fix nh?y default volume 
+
+19.8.2022	64:	thay kvm quang nh�m fix volume
 
 
 

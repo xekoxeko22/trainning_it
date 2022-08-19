@@ -1,3 +1,6 @@
+git clone	kéo code t? git v? máy
+
+
 --------- dua code len git
 
 ->tao repo tren web
@@ -14,7 +17,7 @@ git status
 
 git commit -m"add test3"
 
-git push
+git push	: ??y code lên git
 
 git remote http ...
 
