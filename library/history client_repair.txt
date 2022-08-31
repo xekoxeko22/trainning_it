@@ -1,3 +1,5 @@
+31.8.2022	14:	thoi bui,clear xang thom, noi mat fix: nhiem 				dien man hinh(nhieu xanh man hinh)
+
 5.8.2022	16:	thay nhôm kvm fix volume rè
 
 10.7.2022	18:	change location 19 fix nhi?m ?i?n
@@ -5,6 +7,8 @@
 10.7.2022	19:	change location 18  fix nhi?m ?i?n
 
 10.8.2022	21:	change location vs 37 fix nhi?m ?i?n
+
+24.8.2022	30:	thay chan cam usb kvm fix loi bat khong len
 
 8.8.2022	34:	thay chu?t,??o v?i máy 46: fix lag chu?t
 
@@ -17,7 +21,7 @@
 3.8.2022	46: 	thay cap kvm,hdmi ->dvi-hdmi fix lag chu?t
 8.8.2022	46	thay chu?t,??o v?i máy 34 	fix lag chu?t
 
-4.8.2022	60:	thay nhôm kvm, fix nh?y default volume 
+4.8.2022	60:	thay nhôm kvm, fix nhay default volume 
 
 19.8.2022	64:	thay kvm quang nhôm fix volume
 
