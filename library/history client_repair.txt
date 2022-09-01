@@ -15,8 +15,9 @@
 3.8.2022	35:	temp cpu 95*c
 
 10.8.2022	37:	change location vs 19 fix nhi?m ?i?n
+1.9.2022	37:	clean xang thom jack key-mause, fix nhiem dien
 
-19.8.2022	41:	th?i b?i fix màn hình xanh
+19.8.2022	41:	thoi bui fix màn hình xanh
 
 3.8.2022	46: 	thay cap kvm,hdmi ->dvi-hdmi fix lag chu?t
 8.8.2022	46	thay chu?t,??o v?i máy 34 	fix lag chu?t
