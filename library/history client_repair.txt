@@ -1,4 +1,6 @@
 31.8.2022	14:	thoi bui,clear xang thom, noi mat fix: nhiem 				dien man hinh(nhieu xanh man hinh)
+4.9.2022		bam dau day mang fix nhieu hinh
+
 
 5.8.2022	16:	thay nhôm kvm fix volume rè
 
